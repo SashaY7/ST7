@@ -23,10 +23,6 @@ Namespaces are one honking great idea -- let's do more of those!
 split_words = str_python.split()
 print ("split_words", split_words)
 
-count1 = split_words.count('better')
-count2 = split_words.count('never')
-count3 = split_words.count('is')
-
 print (f"The count Better is {split_words.count('better')} the count Never is {split_words.count('never')} the count Is is {split_words.count('is')}")
 
 #Вивести весь текст у верхньому регістрі (всі великі літери)
