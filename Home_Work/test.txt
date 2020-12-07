@@ -1,0 +1,15 @@
+aaaaa
+bbbbb
+ccccc
+ddddd
+kahskdhf
+asdfjkjhj
+<<<<<<< HEAD
+
+
+;kughjghkj
+jhgjhg
+>>>>>>> 
+
+asdlkkfja;l
+asdlfkasdl
