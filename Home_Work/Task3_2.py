@@ -1,10 +1,7 @@
 #Знайти добуток цифр числа
-
-n = int(input("Chyslo: ")
-for dobutok in range(n)
-
-print(dobutok)
-
+import math
+numbers = (7, 8, 9)
+print("Prod numbers: ", math.prod(numbers))
 
 
 #Записати число в реверсному порядку
