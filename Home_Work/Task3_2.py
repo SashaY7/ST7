@@ -1,12 +1,13 @@
 #Знайти добуток цифр числа
-n = 1234
-Dobutok = 1*2*3*4
-print ("Dobutok", Dobutok)
-#Записати число в реверсному порядку
 
-#n1 = 1234
-#n2 = n1[::-1]
-#print ("Реверсне число: ", n2)
+n = int(input("Chyslo: ")
+for dobutok in range(n)
+
+print(dobutok)
+
+
+
+#Записати число в реверсному порядку
 
 n1 = 1234
 n_list = list(str(n1))
